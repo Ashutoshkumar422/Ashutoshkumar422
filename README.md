@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ashutosh Kumar
+#  Hi, I'm Ashutosh Kumar
 
-### 🤖 Generative AI | Machine Learning | Deep Learning | Computer Vision | Data & AI Engineering
+###  Generative AI | Machine Learning | Deep Learning | Computer Vision | Data & AI Engineering
 
 I'm an **M.Tech Computer Science & Engineering (Analytics) student at National Institute of Technology Delhi**, with a strong interest in building **intelligent, scalable, and production-oriented AI systems**.
 
@@ -10,44 +10,44 @@ I enjoy working across the complete AI development lifecycle — from **data pro
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-🎓 **M.Tech — Computer Science & Engineering (Analytics)**
+ **M.Tech — Computer Science & Engineering (Analytics)**
 National Institute of Technology Delhi | 2025 – 2027
 
-🎓 **B.Tech — Computer Science & Engineering**
+ **B.Tech — Computer Science & Engineering**
 Inderprastha Engineering College, Ghaziabad | 2020 – 2024
 
-🔭 Currently focused on **Generative AI, LLMs, RAG, Deep Learning and AI Engineering**
+ Currently focused on **Generative AI, LLMs, RAG, Deep Learning and AI Engineering**
 
-🧠 Interested in **LLM applications, semantic search, computer vision, multimodal AI, anomaly detection and intelligent data systems**
+ Interested in **LLM applications, semantic search, computer vision, multimodal AI, anomaly detection and intelligent data systems**
 
-⚙️ Experienced in building AI systems using **PyTorch, TensorFlow, LangChain, Hugging Face, FAISS, FastAPI and Docker**
+ Experienced in building AI systems using **PyTorch, TensorFlow, LangChain, Hugging Face, FAISS, FastAPI and Docker**
 
-📊 Strong foundation in **Machine Learning, Deep Learning, Database Systems, SQL/NoSQL and data processing**
+ Strong foundation in **Machine Learning, Deep Learning, Database Systems, SQL/NoSQL and data processing**
 
-🏆 **3rd Place — MathWorks CodeMATrix Sprint Hackathon**
+**3rd Place — MathWorks CodeMATrix Sprint Hackathon**
 
-📚 Published research work in **IRJMETS**
+ Published research work in **IRJMETS**
 
-🤝 **Training & Placement Coordinator — NIT Delhi**
+ **Training & Placement Coordinator — NIT Delhi**
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
-## 👨‍💻 Programming
+##  Programming
 
 `Python` `C++` `SQL`
 
-## 🤖 Machine Learning & Deep Learning
+##  Machine Learning & Deep Learning
 
 `Regression` `Classification` `Clustering`
 `Neural Networks` `CNN` `LSTM` `Autoencoders`
 `U-Net` `YOLO` `Transfer Learning`
 `Fine-Tuning` `Feature Engineering` `Model Optimization`
 
-## 🧠 Generative AI & LLMs
+##  Generative AI & LLMs
 
 `Large Language Models` `Generative AI`
 `Retrieval-Augmented Generation (RAG)`
@@ -56,13 +56,13 @@ Inderprastha Engineering College, Ghaziabad | 2020 – 2024
 `Vector Embeddings` `Semantic Search`
 `Context-Aware AI Applications`
 
-## 👁️ Computer Vision & Audio AI
+##  Computer Vision & Audio AI
 
 `OpenCV` `YOLOv8` `CLIP` `Dlib`
 `Haar Cascade` `LBPH`
 `Librosa` `MFCC` `Mel-Spectrograms`
 
-## 🗄️ Databases & Data Engineering
+##  Databases & Data Engineering
 
 `MySQL` `PostgreSQL` `MongoDB`
 `RDBMS` `SQL` `NoSQL`
