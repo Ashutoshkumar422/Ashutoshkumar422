@@ -83,12 +83,12 @@ FeedbackForage is an AI-powered platform that transforms customer reviews from a
 
 </details>
 
-**Repository:** [GitHub](YOUR_REPOSITORY_URL) · 
+
 
 
 ## 2. 🤖 AI Document Assistant Using Retrieval-Augmented Generation (RAG)
 
-**Repository:** [View Project on GitHub](REPLACE_WITH_RAG_REPOSITORY_URL)
+
 
 An AI-powered document question-answering application that combines semantic retrieval with language-model generation to help users find relevant information in PDF documents.
 
@@ -168,7 +168,7 @@ Generate a response using the question and retrieved context.
 
 ## 3. 🐆 Animal Re-Identification for Wildlife Monitoring
 
-**Repository:** [View Project on GitHub](REPLACE_WITH_ANIMAL_REID_REPOSITORY_URL)
+
 
 **Duration:** April 2026 – May 2026 | **Reported result:** 84.08% mAP
 
@@ -242,7 +242,7 @@ The benefit of CLIP should be assessed through controlled comparisons rather tha
 
 ## 4. 📈 Time-Series Signal Anomaly Detection Using an LSTM Autoencoder
 
-**Repository:** [View Project on GitHub](REPLACE_WITH_LSTM_ANOMALY_REPOSITORY_URL)
+
 
 **Duration:** February 2026 – April 2026
 
@@ -293,19 +293,19 @@ Flag sequences whose reconstruction errors exceed a threshold selected using val
 
 ### Mathematical Foundation
 
-For an input sequence \(X\) and its reconstruction \(\hat{X}\), mean squared reconstruction error can be expressed as:
+For an input sequence (X) and its reconstruction ({X}), mean squared reconstruction error can be expressed as:
 
-\[
-E(X)=\frac{1}{N}\sum_{i=1}^{N}(X_i-\hat{X}_i)^2
-\]
+[
+E(X)=frac{1}{N}sum_{i=1}^{N}(X_i-{X}_i)^2
+]
 
 An observation may be classified as anomalous when:
 
-\[
-E(X)>\tau
-\]
+[
+E(X)>tau
+]
 
-where \(\tau\) is the selected detection threshold.
+where (tau) is the selected detection threshold.
 
 ### Application and Deployment
 
@@ -334,7 +334,7 @@ where \(\tau\) is the selected detection threshold.
 
 ## 5. 🗄️ Schema Scence — Query-Aware Optimization for RDB-to-NoSQL Transformation
 
-**Repository:** [View Project on GitHub](REPLACE_WITH_SCHEMA_SCENCE_REPOSITORY_URL)
+
 
 **Duration:** April 2026 – May 2026
 
@@ -407,7 +407,7 @@ Use Streamlit to expose relevant schema and migration functionality.
 
 ## 6. 🎙️ Deepfake Audio Detection Using Deep Learning
 
-**Repository:** [View Project on GitHub](REPLACE_WITH_DEEPFAKE_AUDIO_REPOSITORY_URL)
+
 
 **Duration:** November 2025 – December 2025
 
@@ -473,7 +473,7 @@ Generate predictions for the configured genuine-versus-spoofed audio classes.
 
 ## 7. 👁️ Student Attentiveness and Attendance System
 
-**Repository:** [View Project on GitHub](REPLACE_WITH_ATTENDANCE_PROJECT_REPOSITORY_URL)
+
 
 **Publication:** IRJMETS, Volume 6, Issue 4, April 2024
 
