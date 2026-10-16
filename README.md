@@ -51,45 +51,40 @@ I enjoy building AI applications, experimenting with deep learning architectures
 
 ---
 
-# 🚀 Featured Projects
+### FeedbackForage — AI-Powered Customer Feedback Intelligence Platform
 
-## 1. 🌾 FeedbackForage — Feedback Collection and Analysis
+**Tech Stack:** Python, Streamlit, SentenceTransformers, BERTopic, DistilBERT, ChromaDB, LangGraph, RAG, OpenAI API, Plotly
 
-**Repository:** [View Project on GitHub](REPLACE_WITH_FEEDBACKFORAGE_REPOSITORY_URL)
-
-FeedbackForage is featured in my project portfolio. This section will document the actual problem it solves, its implemented features, architecture, technology stack, and user workflow.
+FeedbackForage is an AI-powered platform that transforms customer reviews from app stores and social media into actionable business insights. It combines NLP, machine learning, semantic search, and generative AI to identify recurring customer concerns, analyze sentiment, and support data-driven product decisions.
 
 <details>
-<summary><strong>📖 Read the Full Project Explanation</strong></summary>
+<summary><strong>Explore Project Details</strong></summary>
 
-### Project Overview
+**Key Features**
 
-**Problem statement:** Add the actual problem FeedbackForage is designed to solve and explain who uses the application and why it is useful.
+- **Multi-Source Data Processing:** Collects, cleans, normalizes, and deduplicates customer feedback from multiple sources.
+- **Topic Modeling:** Uses BERTopic with UMAP, HDBSCAN, and c-TF-IDF to discover recurring customer issues and product-related themes.
+- **Sentiment Analysis:** Applies DistilBERT to classify reviews as positive or negative and combines sentiment with topic-level analysis.
+- **Semantic Search and RAG:** Uses SentenceTransformers (`all-MiniLM-L6-v2`) and ChromaDB to retrieve relevant reviews and generate context-grounded answers using an LLM.
+- **Multi-Agent Architecture:** Uses LangGraph to coordinate query routing, feedback retrieval, visualization, summarization, and proposed ticket generation with human approval.
+- **Interactive Dashboard:** Uses Streamlit and Plotly to explore customer sentiment, topic distributions, trends, and feedback insights.
 
-### Core Features
+**Documented Data Pipeline**
 
-Document the features implemented in the repository, including the user workflow, application functionality, and any feedback-related processing or reporting capabilities that are genuinely supported.
+- 7,156 raw feedback records collected from multiple sources.
+- 600 unique reviews after deduplication.
+- Approximately 2,000 records after documented NLP-based augmentation.
 
-### System Architecture
+**End-to-End Workflow**
 
-Describe the real architecture, application components, backend services, data storage, and integrations based on the source code.
+`Data Collection → Preprocessing → Embeddings → Topic Modeling + Sentiment Analysis → ChromaDB → RAG + LangGraph Agents → Streamlit Dashboard`
 
-### Application Workflow
-
-Explain the actual end-to-end flow from user input to processing and output.
-
-### Technology Stack
-
-Add the verified programming languages, frameworks, databases, APIs, and deployment technologies used by the project.
-
-### Project Links
-
-- **Repository:** [FeedbackForage](REPLACE_WITH_FEEDBACKFORAGE_REPOSITORY_URL)
-- **Live demo:** Add the demo link if available.
+**Key Objective:** Convert unstructured customer feedback into searchable evidence, interpretable insights, and potential actions for product improvement.
 
 </details>
 
----
+**Repository:** [GitHub](YOUR_REPOSITORY_URL) · 
+
 
 ## 2. 🤖 AI Document Assistant Using Retrieval-Augmented Generation (RAG)
 
